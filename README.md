@@ -1,4 +1,4 @@
-## Hello world, I'm Giovanni 👋🏼
+### Hello world, I'm Giovanni 👋🏼
 
 I am a Software Engineer from Italy, passionate about Advanced Algorithms and Machine Learning.
 
