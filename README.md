@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello world, I'm Giovanni 👋🏼
+
+I am a Software Engineer from Italy, passionate about Advanced Algorithms and Machine Learning.
 
 <!--
 **dmsgnn/dmsgnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
